@@ -27,8 +27,8 @@ This project is an E-Commerce website built using the MERN stack (MongoDB, Expre
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/ecommerce-mern.git
-    cd ecommerce-mern
+    git clone https://github.com/Darshanjasani73/MERN-E-commerce.git
+    cd MERN-E-commerce
     ```
 
 2. **Install server dependencies:**
@@ -49,7 +49,6 @@ This project is an E-Commerce website built using the MERN stack (MongoDB, Expre
    - Create a `.env` file in the `backend` directory.
    - Add the following environment variables:
      ```env
-     NODE_ENV=development
      PORT=5000
      MONGO_URI=your_mongoDB_connection_string
      JWT_SECRET=your_jwt_secret
@@ -59,7 +58,7 @@ This project is an E-Commerce website built using the MERN stack (MongoDB, Expre
    - Create a `.env` file in the `frontend` directory.
    - Add the following environment variables:
      ```env
-     REACT_APP_API_URL=http://localhost:3000
+     REACT_APP_URL=http://localhost:3000
      ```
 
 ### Running the Application
