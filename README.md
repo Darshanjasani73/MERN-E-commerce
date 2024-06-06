@@ -59,8 +59,7 @@ This project is an E-Commerce website built using the MERN stack (MongoDB, Expre
    - Create a `.env` file in the `frontend` directory.
    - Add the following environment variables:
      ```env
-     REACT_APP_API_URL=http://localhost:5000/api
-     REACT_APP_STRIPE_PUBLIC_KEY=your_stripe_public_key
+     REACT_APP_API_URL=http://localhost:3000
      ```
 
 ### Running the Application
@@ -88,7 +87,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
 ## Contact
 
