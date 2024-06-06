@@ -90,4 +90,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-For any inquiries or feedback, please contact Djasani93@gmail.com).
+For any inquiries or feedback, please contact djasani93@gmail.com).
